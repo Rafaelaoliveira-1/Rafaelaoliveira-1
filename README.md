@@ -1,9 +1,9 @@
 ## Hi humans, I'm Rafaela Oliveira 👋
-Welcome to my GitHub <3'
+Welcome to my GitHub <3
 
 ### Who I am?
 - 🌎I live in São Paulo/Brasil
-- ✈️ I am bachelor in Tourism in transition career
+- ✈️ I am bachelor in Tourism in transition .
 - 📚 I'm studying in Generation Brasil to be a FullStack Developer.
 - 💻Studying to have more women in technology.
 
